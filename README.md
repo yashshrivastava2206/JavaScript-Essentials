@@ -15,9 +15,9 @@
             <li>Constants</li>
             <li>Primitive Type and Reference Type Variables</li>
         </ol>
-    </p>
+   
         <hr>
-    <p>
+  
             <strong>Primitive Data type:</strong><br>
             <ol>
                 <li>Number</li>
