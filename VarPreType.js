@@ -45,3 +45,9 @@ let Name = "Aman";
 let age = 21;
 let detail= Name + " is " +age+ " years old";
 console.log(detail);
+
+//typeOf Operator
+let numb=10;
+let strn="Hello World";
+console.log(typeof(numb));
+console.log(typeof(strn));
