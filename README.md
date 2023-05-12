@@ -37,8 +37,8 @@
                 </ol>
         
     </p>
-    
-    <script src="VarPreType.js">
+<!--     
+    <script src="VarPreType.js"> -->
 
     </script>
 </body>
