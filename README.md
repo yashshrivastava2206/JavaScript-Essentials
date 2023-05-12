@@ -15,9 +15,9 @@
             <li>Constants</li>
             <li>Primitive Type and Reference Type Variables</li>
         </ol>
-   
+    </p>
         <hr>
-  
+  <p>
             <strong>Primitive Data type:</strong><br>
             <ol>
                 <li>Number</li>
@@ -26,7 +26,9 @@
                 <li>Undefined</li>
                 <li>Null</li>
             </ol><br>
-        
+    </p>
+        <hr>
+        <p>
                 <strong>
                     Reference Data Type
                 </strong><br>
@@ -34,12 +36,11 @@
                     <li>Array</li>
                     <li>Object</li>
                     <li>Function</li>
-                </ol>
-        
+                </ol> 
     </p>
 <!--     
     <script src="VarPreType.js"> -->
 
-    </script>
+<!--     </script> -->
 </body>
 </html>
